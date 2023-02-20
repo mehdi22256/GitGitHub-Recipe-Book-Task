@@ -11,7 +11,7 @@ Welcome to the Recipe Book project! This repository is a collection of recipes c
 
 
 ## How to Contribute 👥
-1. Fork this repository to your own account.
+1. Fork [this repository](https://github.com/TheCodePeople/recipe-book.git) to your own account.
 2. Choose a recipe to add to the recipe book. Write out the recipe and take some photos of the finished product.
 3. Create a new file in your forked repository for your recipe. Use a clear and descriptive filename, such as "chocolate-chip-cookies.md".
 4. Copy and paste your recipe into the file, and add your photos to the file or create a new folder to store them.
