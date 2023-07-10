@@ -10,6 +10,11 @@ A delicious and customizable recipe for homemade pizza. The crust is made from s
 Feel free to explore the other recipes in this collection and contribute your own culinary creations. Whether you're a novice in the kitchen or an experienced chef, this Recipe Book is a place to share and discover mouthwatering dishes.
 
 
+## Contributed Recipes 👷🏽‍♂️
+- [Chocolate Chip Cookies](#) by @yourusername
+- [Dolma](https://github.com/TheCodePeople/GitGitHub-Recipe-Book-Task/blob/main/Dolma/dolma.md) by @[Samer Almusawiy](https://github.com/TheCodePeople/GitGitHub-Recipe-Book-Task/commits?author=sameralmusawiy)
+
+
 Let's build this Recipe Book together and create a diverse collection of delectable recipes for everyone to enjoy!
 
 ## Credits 💳
