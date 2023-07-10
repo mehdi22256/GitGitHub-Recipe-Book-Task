@@ -22,6 +22,7 @@ Welcome to the Recipe Book project! This repository is a collection of recipes c
 
 ## Contributed Recipes 👷🏽‍♂️
 - [Chocolate Chip Cookies](#) by @yourusername
+- [Dolma](https://github.com/TheCodePeople/GitGitHub-Recipe-Book-Task/blob/main/Dolma/dolma.md) by @[Samer Almusawiy](https://github.com/TheCodePeople/GitGitHub-Recipe-Book-Task/commits?author=sameralmusawiy)
 
 
 ## Credits 💳
