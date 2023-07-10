@@ -13,6 +13,7 @@ Feel free to explore the other recipes in this collection and contribute your ow
 ## Contributed Recipes 👷🏽‍♂️
 - [Chocolate Chip Cookies](#) by @yourusername
 - [Dolma](https://github.com/TheCodePeople/GitGitHub-Recipe-Book-Task/blob/main/Dolma/dolma.md) by @[Samer Almusawiy](https://github.com/TheCodePeople/GitGitHub-Recipe-Book-Task/commits?author=sameralmusawiy)
+- [Homemade](https://github.com/TheCodePeople/GitGitHub-Recipe-Book-Task/blob/main/homemade-pizza.md) by @[Ali Ammar](https://github.com/TheCodePeople/GitGitHub-Recipe-Book-Task/blob/main/homemade-pizza.md)
 
 
 Let's build this Recipe Book together and create a diverse collection of delectable recipes for everyone to enjoy!
